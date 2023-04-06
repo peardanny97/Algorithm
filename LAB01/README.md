@@ -1,4 +1,4 @@
-# LAB 01
+# LAB 01 - Randomized & Deterministic Selection Algorithms
 
 ## Code
 

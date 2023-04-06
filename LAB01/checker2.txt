@@ -1,0 +1,3 @@
+random_selection result is not correct!
+deterministic_selection result is correct!
+55.07469177246094us
